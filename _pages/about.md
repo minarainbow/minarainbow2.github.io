@@ -25,10 +25,10 @@ My research is in Human-Computer Interaction with a focus on making AI assistanc
 I build interactive systems that help people ***interpret*** and ***act*** on AI outputs
  by (1) supporting sensemaking in generative co-creation and (2) delivering actionable, context-aware guidance in real-world tasks. 
 
+This summer, I am teaching CS160 at UC Berkeley, which covers user interface design and development (Intro to HCI).
 
 
 
  I spent first three years of my Ph.D. at [UT Austin](https://www.cs.utexas.edu/). 
  I completed my B.Sc in [Computer Science](https://cs.kaist.ac.kr/) at [KAIST](http://kaist.ac.kr/en/) advised by Prof. [Juho Kim](https://juhokim.com/).
 I also worked as a research intern at [Adobe Research](https://research.adobe.com/research/) (x2) and [Naver AI Lab](https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab).
-
